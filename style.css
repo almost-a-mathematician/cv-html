@@ -44,3 +44,13 @@ a:hover {
     margin-left: 10rem;
    
 }
+
+.lil-size{
+    font-size: 0.8rem;
+}
+
+.personal-data{
+    font-size: 0.8rem;
+    color: grey;
+    text-align: center;
+}
